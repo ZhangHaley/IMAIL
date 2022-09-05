@@ -1,6 +1,7 @@
 # Invariant Model-Based Imitation Learning using Variational Models (IMAIL)
 This is a supplemental experimental result to the accv2022 article.
 ## Complementary ablation experiments
+![claw](/images/ablationn.png)
 ## D'Claw Experiments
 To run practical environments, we use the ROBEL platform, which provides Gym-compliant environments that can be run in both simulation and on real hardware. We train an IL agent to perform the D'Claw task from a third-person perspective. The goal of the task is to successfully turn a wheel on the floor using a robotic arm.
 <p float="left">
